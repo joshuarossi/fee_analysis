@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fee_calculator/static/css/main.20750a48.chunk.css",
+    "main.js": "/fee_calculator/static/js/main.04afd84b.chunk.js",
+    "main.js.map": "/fee_calculator/static/js/main.04afd84b.chunk.js.map",
+    "runtime-main.js": "/fee_calculator/static/js/runtime-main.d77d9f8b.js",
+    "runtime-main.js.map": "/fee_calculator/static/js/runtime-main.d77d9f8b.js.map",
+    "static/js/2.8a346ba3.chunk.js": "/fee_calculator/static/js/2.8a346ba3.chunk.js",
+    "static/js/2.8a346ba3.chunk.js.map": "/fee_calculator/static/js/2.8a346ba3.chunk.js.map",
+    "index.html": "/fee_calculator/index.html",
+    "precache-manifest.52fc976696a77c48f33c8753e0ad8ed0.js": "/fee_calculator/precache-manifest.52fc976696a77c48f33c8753e0ad8ed0.js",
+    "service-worker.js": "/fee_calculator/service-worker.js",
+    "static/css/main.20750a48.chunk.css.map": "/fee_calculator/static/css/main.20750a48.chunk.css.map",
+    "static/js/2.8a346ba3.chunk.js.LICENSE.txt": "/fee_calculator/static/js/2.8a346ba3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d77d9f8b.js",
+    "static/js/2.8a346ba3.chunk.js",
+    "static/css/main.20750a48.chunk.css",
+    "static/js/main.04afd84b.chunk.js"
+  ]
+}
